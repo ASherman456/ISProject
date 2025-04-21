@@ -1,0 +1,53 @@
+.header {
+    background-color: rgb(240, 123, 142);
+    padding: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:antiquewhite;
+    text-align: center;
+    font-size: 30px;
+    border-bottom: 2px solid blanchedalmond;
+}
+
+.subheader {
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(237, 205, 156); 
+}
+
+.content {
+    background-color: #fff5e6;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.centered-list {
+    padding-left: 0;
+    list-style-position: outside;
+    margin: 0 auto;
+    display: table;
+    text-align: left;
+    line-height: 1.6;
+    max-width: 600px;
+    color:rgb(124, 123, 123);
+}
+
+.centered-content {
+    text-align: center; 
+}
+
+.data-viz {
+    margin: 40px auto;
+    text-align: center;
+    max-width: 1000px;
+}
+
+.emphasizedtext {
+    font-style: italic;
+    color: darkgrey;
+}
+.links{
+    text-align: center;
+}
